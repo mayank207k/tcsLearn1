@@ -1,0 +1,13 @@
+D:\VS\tcsLearn4\tcsLearn4\bin\Debug\netcoreapp3.1\tcsLearn4.exe
+D:\VS\tcsLearn4\tcsLearn4\bin\Debug\netcoreapp3.1\tcsLearn4.deps.json
+D:\VS\tcsLearn4\tcsLearn4\bin\Debug\netcoreapp3.1\tcsLearn4.runtimeconfig.json
+D:\VS\tcsLearn4\tcsLearn4\bin\Debug\netcoreapp3.1\tcsLearn4.runtimeconfig.dev.json
+D:\VS\tcsLearn4\tcsLearn4\bin\Debug\netcoreapp3.1\tcsLearn4.dll
+D:\VS\tcsLearn4\tcsLearn4\bin\Debug\netcoreapp3.1\tcsLearn4.pdb
+D:\VS\tcsLearn4\tcsLearn4\obj\Debug\netcoreapp3.1\tcsLearn4.csproj.AssemblyReference.cache
+D:\VS\tcsLearn4\tcsLearn4\obj\Debug\netcoreapp3.1\tcsLearn4.AssemblyInfoInputs.cache
+D:\VS\tcsLearn4\tcsLearn4\obj\Debug\netcoreapp3.1\tcsLearn4.AssemblyInfo.cs
+D:\VS\tcsLearn4\tcsLearn4\obj\Debug\netcoreapp3.1\tcsLearn4.csproj.CoreCompileInputs.cache
+D:\VS\tcsLearn4\tcsLearn4\obj\Debug\netcoreapp3.1\tcsLearn4.dll
+D:\VS\tcsLearn4\tcsLearn4\obj\Debug\netcoreapp3.1\tcsLearn4.pdb
+D:\VS\tcsLearn4\tcsLearn4\obj\Debug\netcoreapp3.1\tcsLearn4.genruntimeconfig.cache
